@@ -30,7 +30,7 @@ import java.util.logging.Logger;
 public class ReadAndSplitFile {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments here
      */
     public static void main(String[] args) throws IOException {
         List result1 = ReadAndSplitFile.splitMethod("C:\\Users\\miracle\\Desktop\\PbDocuments\\SampleSplitDoc.txt", " ");
